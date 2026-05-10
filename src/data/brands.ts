@@ -49,15 +49,15 @@ export const brands: Brand[] = [
     ]
   },
   {
-    slug: "mercedes-ozel-servis-bursa",
+    slug: "mercedes-benz-ozel-servis-bursa",
     image: "/images/brand-mercedes.png",
-    brandName: "Mercedes",
-    seoTitle: "Mercedes Özel Servis Bursa Nilüfer | ERZ GARAGE",
+    brandName: "Mercedes-Benz",
+    seoTitle: "Mercedes-Benz Özel Servis Bursa Nilüfer | ERZ GARAGE",
     metaDescription:
-      "Mercedes özel servis Bursa Nilüfer arayanlar için bakım, arıza tespit, mekanik onarım ve teknik servis desteği sunan ERZ GARAGE.",
-    h1: "Mercedes Özel Servis Bursa Nilüfer",
+      "Mercedes-Benz özel servis Bursa Nilüfer arayanlar için bakım, arıza tespit, mekanik onarım ve teknik servis desteği sunan ERZ GARAGE.",
+    h1: "Mercedes-Benz Özel Servis Bursa Nilüfer",
     intro:
-      "Mercedes araçlar için bakım ve arıza tespit süreçlerinde konfor, sürüş dengesi ve sistem bütünlüğü birlikte değerlendirilmelidir.",
+      "Mercedes-Benz araçlar için bakım ve arıza tespit süreçlerinde konfor, sürüş dengesi ve sistem bütünlüğü birlikte değerlendirilmelidir.",
     services: ["Periyodik bakım", "Arıza tespit", "Şanzıman kontrolü", "Fren servisi", "Oto elektrik"],
     commonProblems: [
       "Elektronik uyarılar ve sensör kaynaklı bildirimler",
@@ -66,20 +66,90 @@ export const brands: Brand[] = [
       "Bakım periyodu ihmaline bağlı performans düşüşleri"
     ],
     whyChooseUs: [
-      "Mercedes araçlar için teknik servis hizmeti yaklaşımı",
+      "Mercedes-Benz araçlar için teknik servis hizmeti yaklaşımı",
       "Sürüş konforunu etkileyen detaylara odaklanan kontrol",
       "Nilüfer oto servis içinde erişilebilir iletişim"
     ],
     faqs: [
       {
-        question: "Mercedes için hangi hizmetler öne çıkıyor?",
+        question: "Mercedes-Benz için hangi hizmetler öne çıkıyor?",
         answer:
           "Periyodik bakım, arıza tespit, fren sistemi, şanzıman değerlendirmesi ve oto elektrik başlıkları sık talep edilen hizmetlerdir."
       },
       {
-        question: "Mercedes bakımında erken kontrol neden önemli?",
+        question: "Mercedes-Benz bakımında erken kontrol neden önemli?",
         answer:
           "Belirtiler erken değerlendirildiğinde daha büyük arızaların önüne geçmek daha kolay olabilir."
+      }
+    ]
+  },
+  {
+    slug: "range-rover-ozel-servis-bursa",
+    image: "/images/brand-bmw.png",
+    brandName: "Range Rover",
+    seoTitle: "Range Rover Özel Servis Bursa Nilüfer | ERZ GARAGE",
+    metaDescription:
+      "Range Rover özel servis Bursa Nilüfer arayanlar için arıza tespit, periyodik bakım, mekanik onarım ve teknik kontrol desteği.",
+    h1: "Range Rover Özel Servis Bursa Nilüfer",
+    intro:
+      "Range Rover araçlarda konfor, arazi karakteri, süspansiyon sistemi ve elektronik kontroller birlikte değerlendirilmelidir. ERZ GARAGE, Range Rover özel servis Bursa arayan kullanıcılar için net servis yönlendirmesi sunar.",
+    services: ["Arıza tespit", "Periyodik bakım", "Süspansiyon kontrolü", "Oto elektrik", "Mekanik onarım"],
+    commonProblems: [
+      "Elektronik uyarılar ve sensör bildirimleri",
+      "Süspansiyon ve yürüyen aksam kaynaklı konfor değişimleri",
+      "Akü, şarj ve elektrik sistemi problemleri",
+      "Bakım gecikmesine bağlı performans ve sürüş hissi değişimleri"
+    ],
+    whyChooseUs: [
+      "Range Rover araç karakterine uygun teknik değerlendirme",
+      "Arıza tespit ve bakım ihtiyacını netleştiren servis akışı",
+      "Bursa Nilüfer’de hızlı iletişim ve yol yardım desteği"
+    ],
+    faqs: [
+      {
+        question: "ERZ GARAGE Range Rover yetkili servisi mi?",
+        answer:
+          "Hayır. ERZ GARAGE, Range Rover araçlara yönelik özel servis yaklaşımıyla çalışan bağımsız bir oto servis işletmesidir."
+      },
+      {
+        question: "Range Rover araçlarda hangi kontroller öne çıkar?",
+        answer:
+          "Arıza tespit, süspansiyon kontrolü, oto elektrik, periyodik bakım ve mekanik onarım başlıkları öne çıkar."
+      }
+    ]
+  },
+  {
+    slug: "mini-cooper-ozel-servis-bursa",
+    image: "/images/brand-audi.png",
+    brandName: "Mini Cooper",
+    seoTitle: "Mini Cooper Özel Servis Bursa Nilüfer | ERZ GARAGE",
+    metaDescription:
+      "Mini Cooper özel servis Bursa Nilüfer arayanlar için arıza tespit, bakım, fren, oto elektrik ve mekanik onarım desteği.",
+    h1: "Mini Cooper Özel Servis Bursa Nilüfer",
+    intro:
+      "Mini Cooper araçlarda kompakt yapı, sürüş karakteri ve elektronik sistemler bakım sürecinde birlikte değerlendirilmelidir. ERZ GARAGE, Mini Cooper özel servis Bursa arayışına teknik servis yaklaşımıyla cevap verir.",
+    services: ["Arıza tespit", "Periyodik bakım", "Yağ değişimi", "Fren kontrolü", "Oto elektrik"],
+    commonProblems: [
+      "Motor arıza lambası ve sensör uyarıları",
+      "Düzensiz çalışma veya çekiş düşüklüğü",
+      "Fren ve süspansiyon kaynaklı sürüş hissi değişimleri",
+      "Akü ve elektrik sistemi uyarıları"
+    ],
+    whyChooseUs: [
+      "Mini Cooper araçlara uygun özel servis yaklaşımı",
+      "Bakım, arıza tespit ve mekanik onarımı birlikte değerlendiren süreç",
+      "Nilüfer oto servis içinde hızlı iletişim ve randevu yönlendirmesi"
+    ],
+    faqs: [
+      {
+        question: "Mini Cooper bakımında hangi işlemler önemlidir?",
+        answer:
+          "Yağ ve filtre bakımı, fren kontrolü, arıza tespit, oto elektrik ve genel mekanik kontrol düzenli takip edilmelidir."
+      },
+      {
+        question: "Mini Cooper arıza lambası yandığında ne yapılmalı?",
+        answer:
+          "Aracı zorlamadan teknik kontrol için iletişime geçmeniz önerilir. Gerekirse arıza tespit veya yol yardım yönlendirmesi yapılır."
       }
     ]
   },

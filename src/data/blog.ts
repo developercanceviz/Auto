@@ -212,20 +212,20 @@ export const blogPosts: BlogPost[] = [
   {
     slug: "mercedes-bakimda-nelere-dikkat-edilmeli",
     image: `/images/blog-main.png`,
-    title: "Mercedes Bakımda Nelere Dikkat Edilmeli?",
-    seoTitle: "Mercedes Bakımda Nelere Dikkat Edilmeli? | ERZ GARAGE Blog",
+    title: "Mercedes-Benz Bakımda Nelere Dikkat Edilmeli?",
+    seoTitle: "Mercedes-Benz Bakımda Nelere Dikkat Edilmeli? | ERZ GARAGE Blog",
     metaDescription:
-      "Mercedes bakım süreçlerinde hangi kontroller öne çıkar, bakım neden geciktirilmemelidir ve özel servis yaklaşımı nasıl olmalıdır?",
-    category: "Mercedes Uzmanlığı",
+      "Mercedes-Benz bakım süreçlerinde hangi kontroller öne çıkar, bakım neden geciktirilmemelidir ve özel servis yaklaşımı nasıl olmalıdır?",
+    category: "Mercedes-Benz Uzmanlığı",
     publishedDate: "2024-08-20",
     readingTime: "4 dk",
     excerpt:
-      "Mercedes araçlarda bakım yaklaşımının sürüş konforu ve uzun vadeli kullanım üzerindeki etkileri.",
+      "Mercedes-Benz araçlarda bakım yaklaşımının sürüş konforu ve uzun vadeli kullanım üzerindeki etkileri.",
     sections: [
       {
         heading: "Bakım planı neden önemli?",
         paragraphs: [
-          "Mercedes araçlarda düzenli bakım, performansın ve sürüş konforunun korunması açısından önem taşır."
+          "Mercedes-Benz araçlarda düzenli bakım, performansın ve sürüş konforunun korunması açısından önem taşır."
         ]
       },
       {
@@ -237,7 +237,7 @@ export const blogPosts: BlogPost[] = [
     ],
     faqs: [
       {
-        question: "Mercedes bakımını ertelemek sorun yaratır mı?",
+        question: "Mercedes-Benz bakımını ertelemek sorun yaratır mı?",
         answer:
           "Evet. Düzenli bakımın gecikmesi zamanla farklı arıza başlıklarını tetikleyebilir."
       }

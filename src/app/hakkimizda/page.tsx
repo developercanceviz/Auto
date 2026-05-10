@@ -30,7 +30,7 @@ export default function AboutPage() {
         eyebrow="Hakkımızda"
         title="ERZ GARAGE Bursa Nilüfer"
         image="/images/hakkimizda.png"
-        description="ERZ GARAJ olarak araçlarınız için profesyonel oto tamir, bakım ve onarım hizmeti sunuyoruz. BMW, Mercedes, Audi başta olmak üzere birçok araç markasında arıza tespit, periyodik bakım, mekanik onarım ve teknik servis hizmetleri vermekteyiz."
+        description="ERZ GARAJ olarak araçlarınız için profesyonel oto tamir, bakım ve onarım hizmeti sunuyoruz. BMW, Mercedes-Benz, Audi, Range Rover ve Mini Cooper başta olmak üzere birçok araç markasında arıza tespit, periyodik bakım, mekanik onarım ve teknik servis hizmetleri vermekteyiz."
       />
 
       <section className="bg-ink py-20 sm:py-28">
@@ -61,8 +61,8 @@ export default function AboutPage() {
           <Card className="p-6">
             <h2 className="text-2xl font-semibold text-white">Profesyonel ekipman ve premium araç odağı</h2>
             <p className="mt-4 text-base leading-8 text-soft">
-              Bursa Nilüfer oto servis ihtiyacında BMW, Mercedes ve Audi gibi araçların bakım ve arıza tespit
-              gereksinimlerini dikkate alan özel servis yaklaşımıyla çalışıyoruz.
+              Bursa Nilüfer oto servis ihtiyacında BMW, Mercedes-Benz, Audi, Range Rover ve Mini Cooper gibi araçların
+              bakım ve arıza tespit gereksinimlerini dikkate alan özel servis yaklaşımıyla çalışıyoruz.
             </p>
           </Card>
         </Container>

@@ -10,16 +10,18 @@ export function BrandExpertise() {
       <Container>
         <div className="mb-10">
           <span className="section-kicker">Premium uzmanlık</span>
-          <h2 className="mt-4 text-3xl font-black text-white sm:text-4xl">BMW, Mercedes ve Audi için teknik servis yaklaşımı</h2>
+          <h2 className="mt-4 text-3xl font-black text-white sm:text-4xl">
+            Premium Avrupa araçları için teknik servis yaklaşımı
+          </h2>
           <p className="mt-4 max-w-3xl leading-7 text-soft">
             Marka logoları kullanmadan, araç karakterine uygun bakım ve arıza tespit süreci sunan özel servis yaklaşımı
             ile çalışıyoruz.
           </p>
         </div>
-        <div className="grid gap-6 md:grid-cols-3">
+        <div className="grid gap-6 sm:grid-cols-2 xl:grid-cols-5">
           {brands.map((brand) => (
             <Card key={brand.slug} className="flex flex-col overflow-hidden">
-              <div className="relative h-72 w-full border-b border-metal bg-graphite">
+              <div className="relative h-60 w-full border-b border-metal bg-graphite xl:h-52">
                 <Image src={brand.image} alt={brand.brandName} fill className="object-cover" />
                 <div className="absolute inset-0 bg-gradient-to-t from-ink/95 via-ink/15 to-transparent" />
                 <div className="absolute bottom-5 left-5 border border-white/10 bg-ink/70 px-4 py-3 text-3xl font-black text-white backdrop-blur">

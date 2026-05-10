@@ -16,7 +16,7 @@ import { WhyChooseUs } from "@/components/sections/WhyChooseUs";
 export const metadata = buildMetadata({
   title: "Bursa Nilüfer Oto Tamir, Bakım ve Onarım | ERZ GARAGE",
   description:
-    "ERZ GARAGE Bursa Nilüfer’de BMW, Mercedes, Audi ve birçok araç için oto tamir, arıza tespit, periyodik bakım, mekanik onarım ve 7/24 yol yardım hizmeti.",
+    "ERZ GARAGE Bursa Nilüfer’de BMW, Mercedes-Benz, Audi, Range Rover, Mini Cooper ve birçok araç için oto tamir, arıza tespit, periyodik bakım, mekanik onarım ve 7/24 yol yardım hizmeti.",
   path: "/"
 });
 

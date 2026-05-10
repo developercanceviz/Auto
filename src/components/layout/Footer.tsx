@@ -31,7 +31,7 @@ export function Footer() {
               </h2>
             </div>
             <p className="mt-3 text-sm text-soft">{siteConfig.businessType}</p>
-            <p className="mt-2 text-sm text-soft">{siteConfig.brands.slice(0, 3).join(" • ")}</p>
+            <p className="mt-2 text-sm text-soft">{siteConfig.brands.join(" • ")}</p>
             <p className="mt-2 text-sm text-soft">Telefon: {siteConfig.phoneDisplay}</p>
             <p className="mt-2 text-sm text-soft">Konum: {siteConfig.subtitle}</p>
             <div className="mt-4 flex gap-4">

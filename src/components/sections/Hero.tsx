@@ -73,7 +73,7 @@ export function Hero({ title, description, locationLabel = "Bursa Nilüfer Oto S
             </Button>
           </div>
           <div className="mt-10 flex flex-wrap gap-3 border-t border-white/10 pt-6">
-            {["BMW • Mercedes • Audi", "Arıza Tespit", "Periyodik Bakım", "7/24 Yol Yardım", "Bursa Nilüfer"].map(
+            {["BMW • Mercedes-Benz • Audi", "Range Rover • Mini Cooper", "Arıza Tespit", "7/24 Yol Yardım", "Bursa Nilüfer"].map(
               (item) => (
                 <span
                   key={item}

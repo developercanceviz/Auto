@@ -28,13 +28,13 @@ export const services: Service[] = [
     shortTitle: "Arıza Tespit",
     seoTitle: "Bursa Nilüfer Arıza Tespit Hizmeti | ERZ GARAGE",
     metaDescription:
-      "Bursa Nilüfer’de araç arıza tespit hizmeti. BMW, Mercedes, Audi ve birçok araç için profesyonel arıza tespiti, teknik kontrol ve servis desteği.",
+      "Bursa Nilüfer’de araç arıza tespit hizmeti. BMW, Mercedes-Benz, Audi, Range Rover, Mini Cooper ve birçok araç için profesyonel arıza tespiti, teknik kontrol ve servis desteği.",
     h1: "Bursa Nilüfer Arıza Tespit Hizmeti",
     intro:
       "Bursa arıza tespit ihtiyacında, doğru teşhis süreci gereksiz parça değişimini önler ve sorunun kaynağına hızlı ulaşılmasını sağlar.",
     overview: [
       "ERZ GARAGE, arıza ışıkları, performans düşüşü ve düzensiz çalışma gibi durumlarda sistematik kontrol yaklaşımı uygular.",
-      "BMW, Mercedes ve Audi gibi premium araçlarda elektronik arızalar ile mekanik belirtiler birlikte değerlendirilir."
+      "BMW, Mercedes-Benz, Audi, Range Rover ve Mini Cooper gibi premium araçlarda elektronik arızalar ile mekanik belirtiler birlikte değerlendirilir."
     ],
     symptoms: [
       "Motor arıza lambasının yanması",
@@ -75,7 +75,7 @@ export const services: Service[] = [
     shortTitle: "Periyodik Bakım",
     seoTitle: "Bursa Nilüfer Periyodik Bakım Hizmeti | ERZ GARAGE",
     metaDescription:
-      "Bursa Nilüfer periyodik bakım hizmeti. BMW, Mercedes, Audi ve birçok araç için düzenli bakım, filtre kontrolü ve servis planlama desteği.",
+      "Bursa Nilüfer periyodik bakım hizmeti. BMW, Mercedes-Benz, Audi, Range Rover, Mini Cooper ve birçok araç için düzenli bakım, filtre kontrolü ve servis planlama desteği.",
     h1: "Bursa Nilüfer Periyodik Bakım Hizmeti",
     intro:
       "Bursa periyodik bakım ihtiyacında düzenli kontrol, aracın günlük kullanım güvenliğini ve uzun vadeli mekanik sağlığını destekler.",
@@ -465,7 +465,7 @@ export const services: Service[] = [
     ],
     whyChooseUs: [
       "Bakım, teşhis ve onarımı tek akışta değerlendirme",
-      "BMW, Mercedes ve Audi gibi araçlarda özel servis yaklaşımı",
+      "BMW, Mercedes-Benz, Audi, Range Rover ve Mini Cooper gibi araçlarda özel servis yaklaşımı",
       "Açık iletişim ve yönlendirme odaklı servis anlayışı"
     ],
     faqs: [

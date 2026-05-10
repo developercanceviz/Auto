@@ -2,7 +2,7 @@ export const homeFaqs = [
   {
     question: "ERZ GARAGE hangi araçlara hizmet veriyor?",
     answer:
-      "Bursa Nilüfer’de BMW, Mercedes, Audi ve birçok premium Avrupa aracına yönelik oto tamir, bakım ve arıza tespit hizmeti sunuyoruz."
+      "Bursa Nilüfer’de BMW, Mercedes-Benz, Audi, Range Rover, Mini Cooper ve birçok premium Avrupa aracına yönelik oto tamir, bakım ve arıza tespit hizmeti sunuyoruz."
   },
   {
     question: "Arıza lambası yandığında ne yapmalıyım?",
@@ -20,7 +20,7 @@ export const aboutFaqs = [
   {
     question: "ERZ GARAGE yetkili servis mi?",
     answer:
-      "Hayır. ERZ GARAGE, BMW, Mercedes ve Audi gibi araçlara yönelik özel servis yaklaşımıyla çalışan bağımsız bir oto servis işletmesidir."
+      "Hayır. ERZ GARAGE, BMW, Mercedes-Benz, Audi, Range Rover ve Mini Cooper gibi araçlara yönelik özel servis yaklaşımıyla çalışan bağımsız bir oto servis işletmesidir."
   },
   {
     question: "Hangi hizmetlerde destek alabilirim?",

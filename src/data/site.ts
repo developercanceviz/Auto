@@ -4,7 +4,7 @@ export const siteConfig = {
   subtitle: "Bursa Nilüfer",
   businessType: "Oto Tamir • Bakım • Onarım",
   description:
-    "Bursa Nilüfer’de BMW, Mercedes, Audi ve birçok araç için oto tamir, bakım, arıza tespit, periyodik bakım, mekanik onarım ve 7/24 yol yardım hizmeti.",
+    "Bursa Nilüfer’de BMW, Mercedes-Benz, Audi, Range Rover, Mini Cooper ve birçok araç için oto tamir, bakım, arıza tespit, periyodik bakım, mekanik onarım ve 7/24 yol yardım hizmeti.",
   location: "Üçevler, 80. Sk. no:5 Beşevler Küçük Sanayi Sitesi, 16000 Ni̇lüfer/Bursa",
   areaServed: ["Bursa", "Nilüfer"],
   phoneDisplay: "0538 585 8157",
@@ -26,7 +26,7 @@ export const siteConfig = {
   openingHours: "Mo-Su 00:00-23:59",
   sameAs: ["https://www.instagram.com/erzgaragebursa"],
   instagramUrl: "https://www.instagram.com/erzgaragebursa",
-  brands: ["BMW", "Mercedes", "Audi", "Premium European Cars"],
+  brands: ["BMW", "Mercedes-Benz", "Audi", "Range Rover", "Mini Cooper"],
   neighborhoods: ["Nilüfer", "Özlüce", "Görükle", "Beşevler", "İhsaniye", "FSM"],
   navItems: [
     { label: "Anasayfa", href: "/" },
@@ -38,7 +38,7 @@ export const siteConfig = {
     { label: "İletişim", href: "/iletisim" }
   ],
   socialProofPoints: [
-    "BMW, Mercedes ve Audi odaklı teknik servis yaklaşımı",
+    "BMW, Mercedes-Benz, Audi, Range Rover ve Mini Cooper odaklı teknik servis yaklaşımı",
     "Arıza tespitten bakım planlamasına net yönlendirme",
     "Hızlı iletişim, WhatsApp desteği ve yol yardım erişimi"
   ],

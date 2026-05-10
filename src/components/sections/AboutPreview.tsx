@@ -11,8 +11,8 @@ export function AboutPreview() {
           <span className="section-kicker">Atölye yaklaşımı</span>
           <h2 className="mt-4 text-3xl font-black text-white sm:text-4xl">ERZ GARAGE Bursa Nilüfer</h2>
           <p className="mt-4 text-base leading-8 text-soft">
-            BMW, Mercedes ve Audi başta olmak üzere premium Avrupa araçları için arıza tespit, bakım ve onarım
-            süreçlerinde güvenilir iletişim odaklı hizmet sunuyoruz.
+            BMW, Mercedes-Benz, Audi, Range Rover ve Mini Cooper başta olmak üzere premium Avrupa araçları için arıza
+            tespit, bakım ve onarım süreçlerinde güvenilir iletişim odaklı hizmet sunuyoruz.
           </p>
           <p className="mt-4 text-base leading-8 text-soft">
             Nilüfer oto tamir arayışında, sürücünün ihtiyacını doğru anlamak ve gereksiz işlem yerine net yönlendirme

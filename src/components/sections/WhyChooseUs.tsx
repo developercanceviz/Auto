@@ -8,7 +8,7 @@ const items = [
   },
   {
     title: "Premium Avrupa araçlarına uygun içerik",
-    text: "BMW özel servis Bursa, Mercedes özel servis Bursa ve Audi özel servis Bursa aramalarına doğal şekilde hitap eder."
+    text: "BMW, Mercedes-Benz, Audi, Range Rover ve Mini Cooper özel servis Bursa aramalarına doğal şekilde hitap eder."
   },
   {
     title: "Teknik servis yaklaşımı",
