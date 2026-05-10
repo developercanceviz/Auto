@@ -2,7 +2,6 @@ import Image from "next/image";
 
 import { siteConfig } from "@/data/site";
 import { Button } from "@/components/ui/Button";
-import { Container } from "@/components/ui/Container";
 
 type HeroProps = {
   title: string;
@@ -14,7 +13,7 @@ export function Hero({ title, description, locationLabel = "Bursa Nilüfer Oto S
   const titleParts = title.split(/(Tamir|Bakım)/g);
 
   return (
-    <section className="relative min-h-[690px] overflow-hidden border-b border-accent/20 bg-ink sm:min-h-[760px] lg:min-h-[820px]">
+    <section className="relative min-h-[620px] overflow-hidden border-b border-accent/20 bg-ink sm:min-h-[700px] lg:min-h-[760px]">
       <Image
         src="/images/hero-garage.png"
         alt="ERZ GARAGE Bursa Nilüfer premium oto servis atölyesi"
@@ -26,7 +25,7 @@ export function Hero({ title, description, locationLabel = "Bursa Nilüfer Oto S
       <div className="absolute inset-0 bg-gradient-to-r from-ink via-ink/75 to-ink/15" />
       <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/35 to-transparent" />
       <div className="absolute inset-0 bg-garage-grid bg-[size:40px_40px] opacity-[0.12]" />
-      <Container className="relative flex min-h-[690px] items-center py-20 sm:min-h-[760px] lg:min-h-[820px]">
+      <div className="relative mx-auto flex min-h-[620px] w-full max-w-shell items-center px-4 py-8 sm:min-h-[700px] sm:px-6 sm:py-12 lg:min-h-[760px] lg:py-16">
         <div className="max-w-3xl">
           <span className="section-kicker">
             {locationLabel}
@@ -86,7 +85,7 @@ export function Hero({ title, description, locationLabel = "Bursa Nilüfer Oto S
             )}
           </div>
         </div>
-      </Container>
+      </div>
     </section>
   );
 }
