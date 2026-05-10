@@ -23,7 +23,12 @@ export function Footer() {
                   className="object-cover"
                 />
               </span>
-              <h2 className="text-xl font-black text-white">{siteConfig.name}</h2>
+              <h2 className="text-xl font-black leading-tight text-white">
+                <span className="block">{siteConfig.shortName}</span>
+                <span className="block text-sm font-bold uppercase tracking-[0.18em] text-soft">
+                  Abdurrahim Karagöl
+                </span>
+              </h2>
             </div>
             <p className="mt-3 text-sm text-soft">{siteConfig.businessType}</p>
             <p className="mt-2 text-sm text-soft">{siteConfig.brands.slice(0, 3).join(" • ")}</p>

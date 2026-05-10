@@ -25,9 +25,9 @@ export function Header() {
               priority
             />
           </span>
-          <span className="hidden sm:block">
-            <span className="block text-lg font-black text-white">{siteConfig.shortName}</span>
-            <span className="block text-[10px] font-bold uppercase tracking-[0.24em] text-soft">
+          <span className="block min-w-0">
+            <span className="block text-base font-black leading-tight text-white sm:text-lg">{siteConfig.shortName}</span>
+            <span className="block text-[9px] font-bold uppercase tracking-[0.18em] text-soft sm:text-[10px] sm:tracking-[0.24em]">
               {siteConfig.subtitle}
             </span>
           </span>
